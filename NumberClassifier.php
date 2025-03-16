@@ -1,6 +1,6 @@
 <?php
 
-echo "Enter a number: ";
+echo "Enter a numbers: ";
 $number = (int) readline();
 
 
